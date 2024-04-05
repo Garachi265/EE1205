@@ -5,7 +5,7 @@ from scipy import signal
 
 
 #sampling frequency from the audio file
-sampl_freq=44100
+sampl_freq=48000
 T = 1.0/sampl_freq
 #order of the filter
 order=4

@@ -6,7 +6,7 @@ import soundfile as sf
 
 
 #sampling frequency obtained from the audio file
-sampl_freq=44100 
+sampl_freq=48000
 
 #order of the filter
 order=4

@@ -2,7 +2,7 @@ import soundfile as sf
 import numpy as np
 from scipy import signal
 #read .wav file 
-input_signal,fs = sf.read('garachi.wav') 
+input_signal,fs = sf.read('sound.wav') 
 
 #sampling frequency of Input signal
 sampl_freq=fs
